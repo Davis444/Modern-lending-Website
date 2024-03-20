@@ -1,4 +1,3 @@
-import React from "react";
 import styles from "../styles";
 import { arrowUp } from "../assets";
 function GetStarted() {
@@ -12,7 +11,7 @@ function GetStarted() {
         <div className={`${styles.flexStart} flex-row`}>
           <p className="font-poppins font-medium text-[18px] leading-[25px] mr-2">
             <span className="text-gradient flex">
-              Get{" "}
+              Get
               <span>
                 <img
                   src={arrowUp}
