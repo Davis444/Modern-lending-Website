@@ -17,6 +17,7 @@
 * {
   scroll-behavior: smooth;
   transition: all 0.3s;
+  font-family: Poppins, sans-serif;
 }
 
 .text-gradient {
