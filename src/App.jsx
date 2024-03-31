@@ -34,12 +34,10 @@ const App = () => {
           <Business />
           <Billing />
           <CardDeal />
-
+          <Testimonials />
           <Clients />
           <CTA />
-
           <Footer />
-          <Testimonials />
         </div>
       </div>
     </>
