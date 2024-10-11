@@ -25,13 +25,14 @@ const Business = () => {
     <section id="features" className={layout.section}>
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          You do the business, <br className="sm:block hidden" />
-          we'll handle the money
+          Your Dream Home, <br className="sm:block hidden" />
+          Our Financing
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          With the right credit card, you can improve your financial life by
-          building credit, earning rewards and saving money from our exclusive
-          discounts and rewards
+        With NextGen Lending, you can simplify your path to
+        homeownership. Our tailored private loans empower you to 
+        buy your ideal property while we provide fast, flexible
+        financing solutions designed to meet your needs.
         </p>
         <Button styles="mt-10" />
       </div>

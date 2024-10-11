@@ -16,7 +16,7 @@ const Hero = () => (
       </div>
       <div className=" flex flex-row justify-between items-center w-full">
         <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px]  leading-[75px]">
-          The Next <br className="sm:block hidden" />{" "}
+           Next <br className="sm:block hidden" />{" "}
           <span className="text-gradient">Generation</span>
         </h1>
         <div className="ss:flex hidden md:mr-4 m-0">
@@ -24,12 +24,13 @@ const Hero = () => (
         </div>
       </div>
       <h1 className="font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">
-        Payment Method
+        Lending
       </h1>
       <p className={`${styles.paragraph} max-w-[470px] mt-5}`}>
-        Our experts team utilize advanced methods to identify your unique needs
-        and tailor your experience accordingly to provide with the best
-        available discounts.
+      At NextGen Lending, we specialize in private loans tailored for homebuyers. Our next-generation approach 
+      streamlines the lending process, providing fast, flexible financing that adapts to your needs.
+      Experience a seamless application process and quick approvals, empowering you to secure
+      your dream property with confidence.
       </p>
     </div>
     <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

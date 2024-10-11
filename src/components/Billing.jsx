@@ -13,13 +13,12 @@ const Billing = () => (
     </div>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> bills and
-        invoices
+        Effortlessly Manage <br className="sm:block hidden" /> Home Financing
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Hoobank makes your online life safe and secure enriched with latest high
-        grade technology to protect from all sorts of scams and spams by keeping
-        your transaction secure at all times
+      NextGen Lending simplifies your journey to homeownership
+      with advanced technology, ensuring a smooth and secure
+      lending experience every step of the way.
       </p>
       <div className="flex flex-wrap sm:mt-10 mt-6">
         <img

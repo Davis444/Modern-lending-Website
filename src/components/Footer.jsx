@@ -12,7 +12,7 @@ const Footer = () => {
             className="w-[266px] h-[72px] object-contain"
           />
           <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>
-            A newer and faster method to keep your online life easy and secure.
+            A Faster, Easier Way to Secure Your Home Financing!
           </p>
         </div>
         <div className="flex-[1.5] w-full flex justify-between flex-wrap md:mt-0 mt-10">
