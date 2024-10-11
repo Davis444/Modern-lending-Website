@@ -39,16 +39,6 @@ const Footer = () => {
         </div>
       </div>
       <div className="w-full flex flex-col justify-between items-center md:flex-row pt-6 border-t-[WHITE]">
-        <p className="text-center text-[18px] leading-[27px] text-white">
-          Made by{" "}
-          <a href="https://github.com/GurpreetSingh-Projects">
-            <b>Gurpreet Singh</b>
-          </a>
-          , Checkout the Github repo &nbsp;
-          <a href="https://github.com/GurpreetSingh-Projects/Modern-Banking-Website">
-            <b>here</b>
-          </a>
-        </p>
         <div className="flex md:mt-0 mt-6">
           {socialMedia.map((social, index) => (
             <img
